@@ -1,6 +1,6 @@
 # Ejercicio Frontend
 
-Mi solución a un ejercicio de programación frontend con JavaScript y React.
+Mi solución a un ejercicio de programación frontend con JavaScript y React. Puedes verla online aquí: https://samfisher753.github.io/ejercicio-frontend/
 
 La aplicación permite crear, editar y borrar tarjetas. Cada tarjeta contiene un título, una descripción (ambos campos obligatorios) y una url de una imagen a mostrar. La url es opcional, en caso de no indicarse se mostrará una imagen por defecto especificada en el código.
 
