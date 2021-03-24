@@ -1,0 +1,7 @@
+.tarjeta-botones {
+    visibility: hidden;
+}
+
+.card:hover .tarjeta-botones {
+    visibility: visible;
+}
